@@ -1,0 +1,5 @@
+{
+  "name": "analytics-bot",
+  "main": "ana.js",
+  "compatibility_date": "2025-01-01"
+}
